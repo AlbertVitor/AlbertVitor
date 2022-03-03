@@ -2,7 +2,6 @@
 
 🛠- Atualmente desempregado    
 📚- Estudando Ciências da Computação
-
 ✨- Front-End (HTML, CSS, JS, Python)
 
 #
