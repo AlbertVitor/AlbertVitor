@@ -1,10 +1,8 @@
-## Prazer!!! Me chamo Vitor - Bem Vindo ao meu Perfil.
+## Prazer!!! Me chamo Vitor, Bem Vindo ao meu Perfil.
 
 🛠- Atualmente desempregado <br>
 📚- Estudando Ciências da Computação <br>
 ✨- Front-End (HTML, CSS, JS, Python) 
-
-
 
 #
 
@@ -18,8 +16,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948914773754527767/948920449461534740/4029a055389655.59822ff823c19.gif">
 </div>
   
@@ -33,8 +31,6 @@
   <a href="https://steamcommunity.com/tradeoffer/new/?partner=996688276&token=XlP-hZ-K" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/fi1w0y157cukl9jyp79kexw1u" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     
-  ![Snake animation](https://github.com/AlbertVitor/AlbertVitor/blob/output/github-contribution-grid-snake.svg)   
+  ![Snake animation](https://github.com/AlbertVitor/AlbertVitor/blob/output/github-contribution-grid-snake.svg)  
     
 </div>
-  
- 
