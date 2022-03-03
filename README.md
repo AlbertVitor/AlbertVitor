@@ -2,9 +2,10 @@
 
 🛠- Atualmente desempregado    
 📚- Estudando Ciências da Computação
+
 ✨- Front-End (HTML, CSS, JS, Python)
 
-##
+#
 
 <div align="center">
   <a href="https://github.com/AlbertVitor">
