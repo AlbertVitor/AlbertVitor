@@ -1,4 +1,4 @@
-## Prazer!!! Me chamo Vitor, Bem Vindo ao meu Perfil.
+## Prazer!!! Me chamo Vitor - Bem Vindo ao meu Perfil.
 
 <div align="center">
   <a href="https://github.com/AlbertVitor">
