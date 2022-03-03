@@ -1,8 +1,9 @@
 ## Prazer!!! Me chamo Vitor - Bem Vindo ao meu Perfil.
 
-🛠- Atualmente desempregado 
-✨- Front-End (HTML, CSS, JS, Python)
-📚- Estudando Ciências da Computação
+🛠- Atualmente desempregado <br>
+📚- Estudando Ciências da Computação <br>
+✨- Front-End (HTML, CSS, JS, Python) 
+
 
 
 #
